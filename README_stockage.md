@@ -1,4 +1,4 @@
-```markdown
+
 # Member 4 – NoSQL Storage + Visualization + Report
 
 ## 1. Objective
@@ -198,4 +198,4 @@ bigdata-project/
 - ✅ Rapport d'architecture (2 pages PDF)
 - ✅ Données stockées dans MongoDB (collections vérifiables)
 
-```
+
